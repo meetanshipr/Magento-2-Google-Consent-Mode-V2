@@ -1,0 +1,1 @@
+# Magento-2-Google-Consent-Mode-V2
